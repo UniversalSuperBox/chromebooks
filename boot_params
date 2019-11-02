@@ -1,0 +1,1 @@
+root=PARTUUID=%U/PARTNROFF=1 rootwait rw console=tty0 noinitrd video=LVDS-1:1366x768
